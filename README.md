@@ -1,4 +1,4 @@
-<h1>Hiya, I'm Lester! <br/><a href="https://github.com/ProfessorVoodoo">Novice Programmer</a>, <a href="https://www.linkedin.com/in/lesterwalker/">Cybersecurity Professional</a>
+<h1>Hiya, I'm Lester! <br/><a href="https://github.com/ProfessorVoodoo">Novice Programmer</a>, <a href="https://www.linkedin.com/in/lesterwalker/">Security Engineer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
