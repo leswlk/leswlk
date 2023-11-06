@@ -2,13 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Network Scanner Made In Bash] (https://github.com/ProfessorVoodoo/JWipe/tree/main)
+- <b>Bash Scripting</b>
+  - MySQL Network Scanner (https://github.com/ProfessorVoodoo/JWipe/tree/main)
+- <b>Python Scripting</b>
+  - asdf
+- <b>PowerShell</b>
+  - asdf
 
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="LesterWalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LesterWalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="LesterWalker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [linkedin]: https://www.linkedin.com/in/lesterwalker/
