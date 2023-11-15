@@ -8,7 +8,8 @@
   - asdf
 - <b>PowerShell</b>
   - asdf
-
+- <b>Microsoft Azure</b>
+  - Azure Sentinel | Plotting Failed RDP Logins ()
 
 <h2> 🤳 Connect with me:</h2>
 
