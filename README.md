@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - asdf
 - <b>Microsoft Azure</b>
-  - Azure Sentinel | Plotting Failed RDP Logins ()
+  - Azure Sentinel | Plotting Failed RDP Logins (https://github.com/ProfessorVoodoo/Azure-Sentinel-Plotting-Failed-RDP-Logins/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
