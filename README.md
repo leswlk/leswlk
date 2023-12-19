@@ -5,9 +5,9 @@
 - <b>Bash Scripting</b>
   - MySQL Network Scanner (https://github.com/ProfessorVoodoo/JWipe/tree/main)
 - <b>Python Scripting</b>
-  - asdf
+  - Coming Soon!
 - <b>PowerShell</b>
-  - asdf
+  - Coming Soon!
 - <b>Microsoft Azure</b>
   - SOC & Honeypot in Azure (https://github.com/ProfessorVoodoo/AzureSOC)
 
