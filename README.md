@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Bash Scripting</b>
-  - MySQL Network Scanner (https://github.com/ProfessorVoodoo/JWipe/tree/main)
+  - Coming Soon!
 - <b>Python Scripting</b>
   - Coming Soon!
 - <b>PowerShell</b>
