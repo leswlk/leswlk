@@ -6,7 +6,7 @@
   - Coming Soon!
 - <b>Python Scripting</b>
   - Coming Soon!
-- <b>PowerShell</b>
+- <b>PowerShell Scripting</b>
   - Coming Soon!
 - <b>Microsoft Azure</b>
   - SOC & Honeypot in Azure (https://github.com/ProfessorVoodoo/AzureSOC)
