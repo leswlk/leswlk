@@ -10,6 +10,8 @@
   - Coming Soon!
 - <b>Microsoft Azure</b>
   - SOC & Honeypot in Azure (https://github.com/ProfessorVoodoo/AzureSOC)
+- <b>Application Security</b>
+  - Coming Soon!
 
 <h2> 🤳 Connect with me:</h2>
 
