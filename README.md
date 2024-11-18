@@ -12,7 +12,12 @@
   - SOC & Honeypot in Azure (https://github.com/ProfessorVoodoo/AzureSOC)
 - <b>Application Security</b>
   - Coming Soon!
-
+- <b>Kubernetes</b>
+  - Coming Soon!
+- <b>Docker</b>
+  - Coming Soon!
+- <b>Terraform</b>
+  - Coming Soon!
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LesterWalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
