@@ -9,7 +9,7 @@
 - <b>PowerShell Scripting</b>
   - Coming Soon!
 - <b>Microsoft Azure</b>
-  - SOC & Honeypot in Azure (https://github.com/ProfessorVoodoo/AzureSOC)
+  - SOC & Honeypot in Azure (https://github.com/leswlk/AzureSOC)
 - <b>Application Security</b>
   - Coming Soon!
 - <b>CTF Walkthroughs</b>
