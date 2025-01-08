@@ -1,4 +1,4 @@
-<h1>Hiya, I'm Lester! <br/><a href="https://github.com/ProfessorVoodoo">Novice Programmer</a>, <a href="https://www.linkedin.com/in/lesterwalker/">Security Engineer</a>
+<h1>Hiya, I'm Lester! <br/><a href="https://github.com/leswlk">Novice Programmer</a>, <a href="https://www.linkedin.com/in/lesterwalker/">Security Engineer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -12,11 +12,7 @@
   - SOC & Honeypot in Azure (https://github.com/ProfessorVoodoo/AzureSOC)
 - <b>Application Security</b>
   - Coming Soon!
-- <b>Kubernetes</b>
-  - Security Lab Environment using Kubernetes (https://github.com/ProfessorVoodoo/Kubernetes-Security-Lab/)
-- <b>Docker</b>
-  - Coming Soon!
-- <b>Terraform</b>
+- <b>CTF Walkthroughs</b>
   - Coming Soon!
 <h2> 🤳 Connect with me:</h2>
 
