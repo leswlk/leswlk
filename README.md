@@ -5,7 +5,7 @@
 - <b>Bash Scripting</b>
   - MySQLScanner - Bash (https://github.com/leswlk/JWipe)
 - <b>Python Scripting</b>
-  - Coming Soon!
+  - Password Strength Checker (https://github.com/leswlk/password-strength-checker)
 - <b>PowerShell Scripting</b>
   - Coming Soon!
 - <b>Microsoft Azure</b>
