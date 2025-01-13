@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Bash Scripting</b>
-  - Coming Soon!
+  - MySQLScanner - Bash (https://github.com/leswlk/JWipe)
 - <b>Python Scripting</b>
   - Coming Soon!
 - <b>PowerShell Scripting</b>
