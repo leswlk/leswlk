@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Bash Scripting</b>
-  - MySQLScanner - Bash (https://github.com/leswlk/JWipe)
+  - Port Scanner - Bash (https://github.com/leswlk/bash-port-scanner)
 - <b>Python Scripting</b>
   - Password Strength Checker (https://github.com/leswlk/password-strength-checker)
 - <b>PowerShell Scripting</b>
