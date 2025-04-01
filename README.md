@@ -13,7 +13,7 @@
 - <b>Application Security</b>
   - Coming Soon!
 - <b>CTF Walkthroughs</b>
-  - Coming Soon!
+  - Academy CTF (https://github.com/leswlk/academy-ctf)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LesterWalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
