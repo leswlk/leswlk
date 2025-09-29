@@ -18,12 +18,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### Certifications
-
-![Security+](https://www.credly.com/badges/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66/public_url)
-![OCI AI]
-![OCI Foundations]
-
 ### Cybersecurity Projects
 
 - <b>Bash Scripting</b>
