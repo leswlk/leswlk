@@ -16,6 +16,10 @@
   - Academy CTF (https://github.com/leswlk/academy-ctf)
 - <b>Oracle Cloud Infrastructure Projects</b>
   - Compartmentalized Multi-Tenant Architecture with IAM Policy Controls
+  - Centrailzed Logging and Auditing System Using OCI Logging
+  - Secure Private Access to Public OCI Services Using OCI Logging
+  - Terraform Infrastructure Blueprint for Public Sector Workloads
+  - Disaster Recovery and Regional Failover Simulation
 <h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="LesterWalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
