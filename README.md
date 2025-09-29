@@ -20,6 +20,10 @@
   - Secure Private Access to Public OCI Services Using OCI Logging
   - Terraform Infrastructure Blueprint for Public Sector Workloads
   - Disaster Recovery and Regional Failover Simulation
+  - Policy Driven Automation with Event Services and Functions
+  - OCI Vault and KMS Integration Across Services
+  - Federated Identity Integration
+  - Compliance Dashboard w/ Budgets, Quotas, and Alerts
 <h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="LesterWalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
