@@ -14,7 +14,9 @@
   - Coming Soon!
 - <b>CTF Walkthroughs</b>
   - Academy CTF (https://github.com/leswlk/academy-ctf)
-<h2> 🤳 Connect with me:</h2>
+- <b>Oracle Cloud Infrastructure Projects</b>
+  - Compartmentalized Multi-Tenant Architecture with IAM Policy Controls
+<h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="LesterWalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LesterWalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
