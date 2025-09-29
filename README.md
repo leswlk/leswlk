@@ -20,8 +20,7 @@
 
 ### Certifications
 
-(<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
-
+![Security+](https://www.credly.com/badges/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66/public_url)
 ![OCI AI]
 ![OCI Foundations]
 
