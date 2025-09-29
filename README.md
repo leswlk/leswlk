@@ -13,10 +13,16 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+### Certifications
+
+![CompTIA Security+](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
+![OCI AI]
+![OCI Foundations]
 
 ### Cybersecurity Projects
 
