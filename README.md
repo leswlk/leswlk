@@ -16,11 +16,15 @@
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Security Tools
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### Certifications
 
-![Security+](https://www.credly.com/badges/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66/public_url)
+[![Security+](<https://www.credly.com/badges/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66/public_url>)](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
 ![OCI AI]
 ![OCI Foundations]
 
