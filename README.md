@@ -25,8 +25,6 @@
 ### Certifications
 
 [![Security+](./assets/comptia-security-ce-certification.png)](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
-![OCI AI]
-![OCI Foundations]
 
 ### Cybersecurity Projects
 
