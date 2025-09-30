@@ -25,6 +25,7 @@
 ### Certifications
 
 [![Security+](./assets/comptia-security-ce-certification.png)](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
+[![APISec University](./assets/api-security-fundamentals-25-2-hours.png)](https://www.credly.com/badges/c12129b4-8e71-4871-b4fe-3a85996f3226/public_url)
 
 ### Cybersecurity Projects
 
