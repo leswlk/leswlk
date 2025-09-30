@@ -26,6 +26,8 @@
 
 [![Security+](./assets/comptia-security-ce-certification.png)](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
 [![APISec University](./assets/api-security-fundamentals-25-2-hours.png)](https://www.credly.com/badges/c12129b4-8e71-4871-b4fe-3a85996f3226/public_url)
+[![Oracle Cloud](./assets/OCI25FNDCFA.jpeg)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=081C3BE037A3683CAB45EB6BB57E33552683C6A1B3B2E257517E6A79249A49F2)
+[![Oracle AI](./assets/OCI25AICFA.jpeg)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=39D8DBE7DD9F1367033B0E7D851BD802A22B74DF6DDF92F3365FE2627811B729)
 
 ### Cybersecurity Projects
 
