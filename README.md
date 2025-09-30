@@ -24,7 +24,7 @@
 
 ### Certifications
 
-[![Security+](<https://www.credly.com/badges/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66/public_url>)](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
+[![Security+](./assets/comptia-security-ce-certification.png)](https://www.credly.com/earner/earned/badge/bd8c5ac3-7de2-44a6-b5d2-6a3aaaacdc66)
 ![OCI AI]
 ![OCI Foundations]
 
