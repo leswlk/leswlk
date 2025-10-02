@@ -44,7 +44,7 @@
 - <b>CTF Walkthroughs</b>
   - Academy CTF (https://github.com/leswlk/academy-ctf)
 - <b>Oracle Cloud Infrastructure Projects</b>
-  - Compartmentalized Multi-Tenant Architecture with IAM Policy Controls
+  - Compartmentalized Multi-Tenant Architecture with IAM Policy Controls (https://github.com/leswlk/oci-compartment-demo)
   - Centrailzed Logging and Auditing System Using OCI Logging
   - Secure Private Access to Public OCI Services Using OCI Logging
   - Terraform Infrastructure Blueprint for Public Sector Workloads
