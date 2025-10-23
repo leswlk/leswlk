@@ -46,7 +46,7 @@
 - <b>Oracle Cloud Infrastructure Projects</b>
   - Compartmentalized Multi-Tenant Architecture with IAM Policy Controls (https://github.com/leswlk/oci-compartment-demo)
 - <b>DevSecOps
-  - Embedding DevSecOps into PyGoat ()
+  - Embedding DevSecOps into PyGoat (https://github.com/leswlk/pygoat-github-actions)
 <h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="LesterWalker | LinkedIn" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/dark/linkedin.svg" />][linkedin]
