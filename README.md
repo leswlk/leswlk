@@ -32,22 +32,22 @@
 ### Cybersecurity Projects
 
 - <b>Bash Scripting</b>
-  - Port Scanner - Bash (https://github.com/leswlk/bash-port-scanner)
+  - [Port Scanner](https://github.com/leswlk/bash-port-scanner)
 - <b>Python Scripting</b>
-  - Password Strength Checker (https://github.com/leswlk/password-strength-checker)
+  - [Password Strength Checker](https://github.com/leswlk/password-strength-checker)
 - <b>PowerShell Scripting</b>
   - Coming Soon!
 - <b>Microsoft Azure</b>
-  - SOC & Honeypot in Azure (https://github.com/leswlk/AzureSOC)
+  - [AzureSOC](https://github.com/leswlk/AzureSOC)
 - <b>Application Security</b>
   - Coming Soon!
 - <b>CTF Walkthroughs</b>
-  - Academy CTF (https://github.com/leswlk/academy-ctf)
+  - [Academy CTF](https://github.com/leswlk/academy-ctf)
 - <b>Oracle Cloud Infrastructure Projects</b>
-  - Compartmentalized Multi-Tenant Architecture with IAM Policy Controls (https://github.com/leswlk/oci-compartment-demo)
+  - [Compartmentalized Multi-Tenant Architecture with IAM Policy Controls](https://github.com/leswlk/oci-compartment-demo)
 - <b>DevSecOps
-  - Embedding DevSecOps into PyGoat (https://github.com/leswlk/pygoat-github-actions)
-  - AWS CodePipeline (https://github.com/leswlk/aws-codepipeline-react-app)
+  - [Embedding DevSecOps into PyGoat](https://github.com/leswlk/pygoat-github-actions)
+  - [AWS CI/CD w/CodePipeline, CodeBuild, S3](https://github.com/leswlk/aws-codepipeline-react-app)
 <h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="LesterWalker | LinkedIn" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/dark/linkedin.svg" />][linkedin]
