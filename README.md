@@ -39,8 +39,6 @@
   - Coming Soon!
 - <b>Microsoft Azure</b>
   - [AzureSOC](https://github.com/leswlk/AzureSOC)
-- <b>Application Security</b>
-  - Coming Soon!
 - <b>CTF Walkthroughs</b>
   - [Academy CTF](https://github.com/leswlk/academy-ctf)
 - <b>Oracle Cloud Infrastructure Projects</b>
